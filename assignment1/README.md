@@ -34,13 +34,13 @@ This repository contains assignment 1 of the CSS course in the Beginner Front-En
 
 ### Motorcycles Page
 
-![Motorcycles Page]((https://github.com/akturksametyasin/Patika.dev-CSS/blob/main/assignment1/image/motorcyclespage.png)
+![Motorcycles Page](https://github.com/akturksametyasin/Patika.dev-CSS/blob/main/assignment1/image/motorcyclespage.png)
 
 ### Contact Page
 
-![Contact Page](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/end-of-chapter-study/image/contactpage.png)
+![Contact Page](https://github.com/akturksametyasin/Patika.dev-CSS/blob/main/assignment1/image/contactpage.png)
 
 ### About Us Page
 
-![About Us Page](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/end-of-chapter-study/image/aboutuspage.png)
+![About Us Page](https://github.com/akturksametyasin/Patika.dev-CSS/blob/main/assignment1/image/aboutuspage.png)
 
